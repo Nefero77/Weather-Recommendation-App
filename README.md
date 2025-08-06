@@ -4,8 +4,7 @@ A sleek and minimalist React app that displays current weather information for a
 
 ## 🧑‍💻 Live Demo
 
-👉 [Click here to view the live app](https://weather-recommendation-app.vercel.app/https://weather-recommendation-app.vercel.app/)  
-
+👉 <a href="https://weather-recommendation-app.vercel.app" target="_blank" rel="noopener noreferrer">Click here to view the live app</a>
 
 ## 🚀 Features
 
