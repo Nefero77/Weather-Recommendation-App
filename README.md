@@ -2,11 +2,6 @@
 
 A sleek and minimalist React app that displays current weather information for any city and gives helpful, fun recommendations based on temperature and conditions. Built with OpenWeatherMap API and deployed on Vercel.
 
-## 🧑‍💻 Live Demo
-
-👉 
-<a href="https://weather-recommendation-app.vercel.app" target="_blank" rel="noopener noreferrer">Click here to view the live app</a>
-
 ## 🚀 Features
 
 - 🔍 Search weather by city name
