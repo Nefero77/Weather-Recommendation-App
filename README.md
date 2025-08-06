@@ -36,9 +36,7 @@ src/
 ├── App.jsx
 └── index.js
 
-yaml
-Copy
-Edit
+
 ```
 ---
 
