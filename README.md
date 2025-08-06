@@ -13,13 +13,6 @@ A sleek and minimalist React app that displays current weather information for a
 
 ---
 
-## 🧑‍💻 Live Demo
-
-👉 [Click here to view the live app](https://weather-recommendation-app.vercel.app/https://weather-recommendation-app.vercel.app/)  
-
-
----
-
 ## 📦 Project Structure
 ```
 src/
